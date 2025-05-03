@@ -112,6 +112,17 @@ resource "aws_apigatewayv2_route" "api_route_user_goals" {
   target    = "integrations/${aws_apigatewayv2_integration.api_integration.id}"
 }
 
+resource "aws_apigatewayv2_route" "api_route_user_goals_overview" {
+  api_id    = aws_apigatewayv2_api.api.id
+  route_key = "ANY /user/{id}/goals/{goalName}"
+  target    = "integrations/${aws_apigatewayv2_integration.api_integration.id}"
+}
+resource "aws_apigatewayv2_route" "api_route_user_goals_dashboard" {
+  api_id    = aws_apigatewayv2_api.api.id
+  route_key = "ANY /user/{id}/dashboard"
+  target    = "integrations/${aws_apigatewayv2_integration.api_integration.id}"
+}
+
 # Lambda Permission for API Gateway
 resource "aws_lambda_permission" "api_gw" {
   statement_id  = "AllowExecutionFromAPIGateway"
