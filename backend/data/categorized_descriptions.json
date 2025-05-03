@@ -1,0 +1,1362 @@
+[
+  {
+    "description": "OVpay",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Trijog",
+    "category": "Healthcare",
+    "budget_group": "Health"
+  },
+  {
+    "description": "Visa Application Fee",
+    "category": "Visa",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "Action",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Google",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Zeeman",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Albert Heijn",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Sari Citra",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Plus plan fee",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "SALSA SHOP",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "dambrownie.com",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Booking.com",
+    "category": "Travel",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "Bck Gewoon Broodjes",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Exchange to USD",
+    "category": "Currency Exchange",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "H&M",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "D C Purmerend W",
+    "category": "Utilities",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Bck Vero Moda Purmeren",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "YouTube",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Dr. Falafel",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Ms Isabellashouse",
+    "category": "Rent",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "C&m Cafe Carbon",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Boka's Koffiebar",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Amtrak",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Levain Bakery",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Waterhole Exploitatie",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Elizabeth",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Old City Cafe & G",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "MTA",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Whole Foods Market",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "To Lebara",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Kruidvat",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Toko Baru",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "M N Tabak En S",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Thai Passeig",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Santagloria Coffee & Bakery",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "To T-mobile Thuis B.v.",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Netflix",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Tennis Point",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Rayleigh & Ramsay",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Moonflower",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Vomar",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "ASOS",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "MEININGER Hotels",
+    "category": "Travel",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "Ben's Cookies",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Maison Aleph",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Cuvee Noire",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Le Pain Quotidien",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "The French Bastards",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Filiaal No. 127",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Bck Masala Bazaar",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Exchange to DKK",
+    "category": "Currency Exchange",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Uber",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Massageomatic",
+    "category": "Healthcare",
+    "budget_group": "Health"
+  },
+  {
+    "description": "Magasin du Nord",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Tivoli",
+    "category": "Entertainment",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Bar Deco",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Den Økologiske Pølsemand",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Buka",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Bertels Salon",
+    "category": "Beauty & Wellness",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Venner Aps",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Lagkagehuset",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "EasyJet",
+    "category": "Travel",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "ferns n petals",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "2theloo",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "De Zaanse Schans",
+    "category": "Travel",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "Saravanaa Bhavan",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Gelato",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Wide Sales",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Onigiri YA!",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "VOLG Aeschi bei Spiez",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Vending Machine Payment",
+    "category": "Snacks",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Denner",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Hippie Fish",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Interlaken Ost",
+    "category": "Travel",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "HEMA",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Gruezi Coffee",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "SBB CFF FFS",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Coop",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Napoli Centrale",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Rtvm Aeroporto",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "The Yellow Hostel",
+    "category": "Travel",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "Castro Pretorio",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Amedeo Ristorante",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Ristorante Julie's",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Le Cafe' Hoque Srls",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Lebara mobile",
+    "category": "Utilities",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Spice Supermarket",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Bck Dabka",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "YellowSquare",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Ristorante Magno Roma",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Frida S.r.l.s.",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Drg",
+    "category": "Healthcare",
+    "budget_group": "Health"
+  },
+  {
+    "description": "T Pleintje",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Società Cooperativa Culture",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "De Slegte",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Momento",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Della Palma",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Miah Md Jalil",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "SumUp",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Coco Fresh Tea",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "ATAC Roma",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Gielle",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Trapizzino",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Pantheon",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Salus S.r.l.s.",
+    "category": "Healthcare",
+    "budget_group": "Health"
+  },
+  {
+    "description": "Ryanair",
+    "category": "Travel",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "A Beautiful Mess",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Pathé",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Il Signo",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Etos",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Lunchport",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Parking Meent Rdam",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Stationssingel 10",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "FEBO",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Bck Amirtha Vilas",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Indian Quality Food Supermarket",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Donkey Republic",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Van Stapele Koekma",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Kroonenberg Groep",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Leonidas",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Bloemen En Plantenh",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "De Liefhebbers",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Tango",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "De Bonte Koe Chocolade",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Ccv The Old Bell",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Gollem Proeflokaal",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Escape Amsterdam",
+    "category": "Travel",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "De Heeren Van Aemstel",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Garder 0",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Dille & Kamille",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "IJ-Hallen",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Premium Delivery Fee",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Nook",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "De Jong En Rei",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Ccv De Lunch",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Dc Purmerend Weidevenn",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Hata",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Ccv Appels En Peren",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Bck The Old Bell",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "IJssalon Tofani",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Exploitatie Servic",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Cash at Korte Leidsedwarsstraa",
+    "category": "Cash Withdrawal",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Rock Club The Cave",
+    "category": "Entertainment",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "KFC",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Cider",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Sportcentrum Neck",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Bck Harry De Groot Wei",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Bakkerij Boonzaaijer",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "McDonald's",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Odin Amsterdam Noord",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Julia's",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Sorza Sc",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Bagels And Brow",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Pâtisserie Salon de Thé Kawakami",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Bouquet St Paul",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Iolanda",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "le bouquet du nord",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Truffe",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Cash at Cm Paris La Roquette",
+    "category": "Cash Withdrawal",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Bubble Tea Schiphol",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Janjua",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Liefkenshoektunnel",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Milous",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "louis delhaize Oude Burg Brugge",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Parking Katelijne",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Philip's Bakery",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Etos 7590",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Inburgering Online",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Amsterdam Centraal",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "IKEA",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Vanessa Nails Co.spa",
+    "category": "Healthcare",
+    "budget_group": "Health"
+  },
+  {
+    "description": "FNP",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Yaman Baklavas",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Bruna",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "HMSHost International",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Sarl LPA Concept",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Le Tabagnon Du 6",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Les Eclaireurs Patissi",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Carrefour",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Le Bec A Pains",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Parking les Halles",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Escota",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "VINCI Autoroutes",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Modern Afghan",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Cambarette Centre",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Calderon",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "JOE & THE JUICE",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Florian",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "La Tarte Tropézienne",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Taxi Efe",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Salvo",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Bck T.g. Bestseller",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Chennai Cafe",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Amazon",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Munchroom",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Dirk",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Transfer from Revolut user",
+    "category": "Transfer",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Transfer to Revolut user",
+    "category": "Transfer",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Burger King",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Dialprix",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Uber Eats",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Rincón del Pan",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Restaurante Mr. Chen A",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Foto Video Alessio",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Aeropuerto de Tenerife Sur",
+    "category": "Travel",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "In Time",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Graan B.v.",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Mps Taxi",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Spar",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Elevate Labs",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Google One",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "LeetCode",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Miri Mary",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Dim Sum Thing",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Banketbakkerij Het Koekemannetje",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Parking Tejon",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "MAAS",
+    "category": "Transport",
+    "budget_group": "Transport"
+  },
+  {
+    "description": "Teeamo Marbella",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "ALE-HOP",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Albi Tres Culturas",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Nybakat Bakery",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Rockys Bakery",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Mito Asuncion",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Malvón",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Rest.lm Asuncion",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "NH hotel group",
+    "category": "Travel",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "OpenAI",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Farmacia Silva Mejias",
+    "category": "Healthcare",
+    "budget_group": "Health"
+  },
+  {
+    "description": "Amazon Web Services",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Barista Cafe Purmerend",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Market 27",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Plus Repricing 2 plan fee",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Ccv Brasserie Villa Br",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Www.corebalancetrainin",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Bng Gemeente Purmerend",
+    "category": "Utilities",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Bck Harry De Groot Pad",
+    "category": "Misc",
+    "budget_group": "Misc"
+  },
+  {
+    "description": "Nelis’ IJssalon",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Holland & Barrett",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Jumbo Supermarkt",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "SoLow Purmerend",
+    "category": "Groceries",
+    "budget_group": "Groceries & Essentials"
+  },
+  {
+    "description": "Fermlogics",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "eurostar",
+    "category": "Travel",
+    "budget_group": "Travel"
+  },
+  {
+    "description": "Thuisbezorgd.nl",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Timeleft",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "La Contessa",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Preply",
+    "category": "Subscription",
+    "budget_group": "Subscription"
+  },
+  {
+    "description": "Sport 2000",
+    "category": "Shopping",
+    "budget_group": "Shopping"
+  },
+  {
+    "description": "Hanny Horeca Exploitat",
+    "category": "Restaurants",
+    "budget_group": "Restaurants"
+  },
+  {
+    "description": "Salary for 2024-05",
+    "category": "Income",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2024-05",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Salary for 2024-06",
+    "category": "Salary",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2024-06",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Salary for 2024-07",
+    "category": "Income",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2024-07",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Salary for 2024-08",
+    "category": "Income",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2024-08",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Salary for 2024-09",
+    "category": "Salary",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2024-09",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Salary for 2024-10",
+    "category": "Income",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2024-10",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Salary for 2024-11",
+    "category": "Income",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2024-11",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Salary for 2024-12",
+    "category": "Income",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2024-12",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Salary for 2025-01",
+    "category": "Income",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2025-01",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Salary for 2025-02",
+    "category": "Income",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2025-02",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Salary for 2025-03",
+    "category": "Income",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2025-03",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  },
+  {
+    "description": "Salary for 2025-04",
+    "category": "Income",
+    "budget_group": "Income"
+  },
+  {
+    "description": "Mortgage for 2025-04",
+    "category": "Mortgage",
+    "budget_group": "Utilities"
+  }
+]

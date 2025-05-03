@@ -1,0 +1,23 @@
+{
+        Transport: 0,
+        Healthcare: 1,
+        Visa: 2,
+        Misc: 3,
+        Subscription: 4,
+        Shopping: 5,
+        Groceries: 6,
+        Restaurants: 7,
+        Travel: 8,
+        'Currency Exchange': 9,
+        Utilities: 10,
+        Rent: 11,
+        Entertainment: 12,
+        'Beauty & Wellness': 13,
+        Snacks: 14,
+        'Cash Withdrawal': 15,
+        Transfer: 16,
+        Restaurant: 17,
+        Income: 18,
+        Mortgage: 19,
+        Salary: 20
+}

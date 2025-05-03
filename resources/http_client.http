@@ -1,0 +1,17 @@
+@url = https://is3yts5o70.execute-api.eu-central-1.amazonaws.com/
+@user_id= 1879660
+
+### Create item
+POST https://{{url}}/user/{{user_id}}/goals
+Content-Type: application/json
+
+{
+  "target_amount": 10000,
+  "status": "first",
+  "name": "Mike2"
+}
+
+
+### Fetch  user goals
+GET https://{{url}}/user/{{user_id}}/goals
+Content-Type: application/json
