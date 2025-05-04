@@ -1,17 +1,25 @@
 @url = https://is3yts5o70.execute-api.eu-central-1.amazonaws.com/
-@user_id= 1879660
+@user_id= 1879742
+@user_id_too= 1879660
+@goal_name= Vacation
 
 ### Create item
 POST https://{{url}}/user/{{user_id}}/goals
 Content-Type: application/json
 
-{
-  "target_amount": 10000,
-  "status": "first",
-  "name": "Mike2"
-}
+< ./combined.json
 
 
 ### Fetch  user goals
 GET https://{{url}}/user/{{user_id}}/goals
 Content-Type: application/json
+
+### Fetch  user goal overview
+GET https://{{url}}/user/{{user_id}}/goals/{{goal_name}}
+Content-Type: application/json
+
+
+### Fetch  user dashboard
+GET https://{{url}}/user/{{user_id}}/dashboard
+Content-Type: application/json
+
